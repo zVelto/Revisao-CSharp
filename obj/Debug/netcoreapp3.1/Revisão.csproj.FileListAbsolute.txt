@@ -1,0 +1,13 @@
+C:\Users\welton\Documents\projetos\Projetos C#\Revisão\obj\Debug\netcoreapp3.1\Revisão.csprojAssemblyReference.cache
+C:\Users\welton\Documents\projetos\Projetos C#\Revisão\obj\Debug\netcoreapp3.1\Revisão.AssemblyInfoInputs.cache
+C:\Users\welton\Documents\projetos\Projetos C#\Revisão\obj\Debug\netcoreapp3.1\Revisão.AssemblyInfo.cs
+C:\Users\welton\Documents\projetos\Projetos C#\Revisão\obj\Debug\netcoreapp3.1\Revisão.csproj.CoreCompileInputs.cache
+C:\Users\welton\Documents\projetos\Projetos C#\Revisão\bin\Debug\netcoreapp3.1\Revisão.exe
+C:\Users\welton\Documents\projetos\Projetos C#\Revisão\bin\Debug\netcoreapp3.1\Revisão.deps.json
+C:\Users\welton\Documents\projetos\Projetos C#\Revisão\bin\Debug\netcoreapp3.1\Revisão.runtimeconfig.json
+C:\Users\welton\Documents\projetos\Projetos C#\Revisão\bin\Debug\netcoreapp3.1\Revisão.runtimeconfig.dev.json
+C:\Users\welton\Documents\projetos\Projetos C#\Revisão\bin\Debug\netcoreapp3.1\Revisão.dll
+C:\Users\welton\Documents\projetos\Projetos C#\Revisão\bin\Debug\netcoreapp3.1\Revisão.pdb
+C:\Users\welton\Documents\projetos\Projetos C#\Revisão\obj\Debug\netcoreapp3.1\Revisão.dll
+C:\Users\welton\Documents\projetos\Projetos C#\Revisão\obj\Debug\netcoreapp3.1\Revisão.pdb
+C:\Users\welton\Documents\projetos\Projetos C#\Revisão\obj\Debug\netcoreapp3.1\Revisão.genruntimeconfig.cache
